@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "GeneBreak"]
-	path = GeneBreak
-	url = https://github.com/stefvanlieshout/genebreak
-	shallow = true
-	registered = true
